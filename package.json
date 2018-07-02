@@ -1,0 +1,25 @@
+{
+  "name": "posixtz",
+  "version": "1.0.0",
+  "description": "posix time zone formatter and parser",
+  "main": "index.js",
+  "keywords": [
+    "posix",
+    "time",
+    "zone"
+  ],
+  "author": "Jason Diamond",
+  "license": "MIT",
+  "peerDependencies": {
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21"
+  },
+  "devDependencies": {
+    "jest": "23.2.0",
+    "moment": "2.22.2",
+    "moment-timezone": "0.5.21"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
